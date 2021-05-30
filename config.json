@@ -1,0 +1,10 @@
+{
+	"pool_host": "eth-na.f2pool.com",
+	"pool_port": 6688,
+	"pool_wallet": "qwertyquerty",
+	"pool_worker": "qmtr",
+	"rich_presence_id": 845514630667173908,
+	"wallet": "0x75FE644Df34A95b3C5E03767AeAEe80d7B1B6ce7",
+	
+	"cryptocompare_api_key": null
+}

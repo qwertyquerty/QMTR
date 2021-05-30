@@ -1,0 +1,5 @@
+pypresence
+qdarkstyle
+pyqt5
+pyqtgraph
+requests
